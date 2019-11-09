@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="SIEV.test.Tests" duration-ms="23444" started-at="2019-10-17T21:29:01Z" finished-at="2019-10-17T21:29:25Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="23444" started-at="2019-10-17T21:29:01Z" finished-at="2019-10-17T21:29:25Z">
+      <class name="SIEV.test.Tests">
+        <test-method status="PASS" signature="init()[pri:0, instance:SIEV.test.Tests@2acf57e3]" name="init" is-config="true" duration-ms="9867" started-at="2019-10-17T21:29:01Z" finished-at="2019-10-17T21:29:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="LoginFailTest()[pri:0, instance:SIEV.test.Tests@2acf57e3]" name="LoginFailTest" duration-ms="1780" started-at="2019-10-17T21:29:11Z" finished-at="2019-10-17T21:29:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginFailTest -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:SIEV.test.Tests@2acf57e3]" name="endTest" is-config="true" duration-ms="42" started-at="2019-10-17T21:29:13Z" finished-at="2019-10-17T21:29:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method status="PASS" signature="init()[pri:0, instance:SIEV.test.Tests@2acf57e3]" name="init" is-config="true" duration-ms="9674" started-at="2019-10-17T21:29:13Z" finished-at="2019-10-17T21:29:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="LoginOkTest()[pri:0, instance:SIEV.test.Tests@2acf57e3]" name="LoginOkTest" duration-ms="2015" started-at="2019-10-17T21:29:23Z" finished-at="2019-10-17T21:29:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginOkTest -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:SIEV.test.Tests@2acf57e3]" name="endTest" is-config="true" duration-ms="43" started-at="2019-10-17T21:29:25Z" finished-at="2019-10-17T21:29:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- SIEV.test.Tests -->
+    </test> <!-- Command line test -->
+  </suite> <!-- SIEV.test.Tests -->
+</testng-results>
